@@ -21,9 +21,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![273424862-2f0b38e9-1bd6-4cb6-be96-5d36d8ca3cd4](https://github.com/RKavikeerthana/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120431120/1cc879b4-5749-4ff6-be74-dac33d852a8c)
 
-### Name:
-### Register Number:
+### Name: R.KAVI KEERTHANA
+### Register Number: 212222100022
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
